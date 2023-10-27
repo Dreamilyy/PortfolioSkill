@@ -2,7 +2,7 @@ import React from 'react'
 
 function nameFirstPage() {
   return (
-    <div>Hi My name is Pumin Singhapon</div>
+    <div className="text-3xl font-bold underline">Hi My name is Pumin Singhapon</div>
   )
 }
 
